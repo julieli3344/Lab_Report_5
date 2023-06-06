@@ -17,6 +17,17 @@ I tried to follow the advice of the TA by looking at the reversed code to see wh
 
 **info needed about setup(file and directory structure | contents of each file before fixing bug | full command line to run bug | decription of what to edit to fix bug)**
 
+1.structure:
+<img width="1440" alt="Screen Shot 2023-06-05 at 5 56 25 PM" src="https://github.com/julieli3344/Lab_Report_5/assets/83881461/9329017f-172e-4fb8-a91e-937408523046">
+
+2. contents of each file:
+
+3. What I ran to trigger the bug:
+`javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
+`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ArrayTests`
+4. What I did to fix bugz;
+- first I changed the for loop, so instead of finishing the whole loop, it would stop half way, and I also set `var` equal to `arr[i]`. 
+
 
 Reflection
 During the second half of this class I have learned many things that were new to me. I have never heard of vim before, and after using it during a lab, it was extremely useful and easier to edit text. 
