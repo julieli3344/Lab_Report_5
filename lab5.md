@@ -21,6 +21,7 @@ I tried to follow the advice of the TA by looking at the reversed code to see wh
 <img width="1440" alt="Screen Shot 2023-06-05 at 5 56 25 PM" src="https://github.com/julieli3344/Lab_Report_5/assets/83881461/9329017f-172e-4fb8-a91e-937408523046">
 
 2. contents of each file:
+<img width="1440" alt="Screen Shot 2023-06-05 at 5 57 41 PM" src="https://github.com/julieli3344/Lab_Report_5/assets/83881461/21aab2a8-4abc-48bf-86a3-27ec79ff1920">
 
 3. What I ran to trigger the bug:
 `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java`
@@ -30,4 +31,4 @@ I tried to follow the advice of the TA by looking at the reversed code to see wh
 
 
 Reflection
-During the second half of this class I have learned many things that were new to me. I have never heard of vim before, and after using it during a lab, it was extremely useful and easier to edit text. 
+During the second half of this class I have learned many things that were new to me. I have never heard of vim before, and after using it during a lab, it was extremely useful and easier to edit the text. When there was an error in the code, I can just put in for example vim arraylist.java and go into the editor mode. I can also use shortcuts and other ways to edit it through there making editing go faster.
